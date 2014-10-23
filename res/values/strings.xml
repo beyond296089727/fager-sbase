@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">root</string>
+    <string name="hello_world">快速关机或重启</string>
+
+</resources>
